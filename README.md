@@ -32,7 +32,7 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [franciscojoeldev-huddle-landing-page.netlify.app](https://franciscojoeldev-huddle-landing-page.netlify.app/)
 
 ## My process
 
